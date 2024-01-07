@@ -576,6 +576,7 @@ display_mask(i)  # Note that the model only sees inputs at 150x150.
 32/32 [==============================] - 70s 2s/step
 
 ##結果如下
+
 ![image](https://github.com/10824209minggui/Finalreport/assets/149359020/f7f86032-8397-4fa0-b282-057894aabfe7)
 
 ![image](https://github.com/10824209minggui/Finalreport/assets/149359020/56c72dcb-600a-4996-9be9-55c1b550eaac)
